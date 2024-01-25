@@ -1,0 +1,6 @@
+.app__navbar {
+  width: 100%;
+  display: flex;
+  border:2px solid greenyellow;
+  background-color: blueviolet;
+}
