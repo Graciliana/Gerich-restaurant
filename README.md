@@ -1,70 +1,48 @@
-# Getting Started with Create React App
+# Restaurant Landing Page
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Repositório criado com o objetivo de compartilhar  conteúdo sobre orientação a objetos.
 
-## Available Scripts
+## :rocket: Descrição
 
-In the project directory, you can run:
+Este é um repositório de código para construção de um site destinado para um restaurante. Desenvovimentos das Habilidades de desenvolvimento pessoal nas tecnologias React com apoio do Tutorial JavaScript Mastery
 
-### `npm start`
+## 👨‍💻️ Tecnologias Utilizadas
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Esse projeto foi criado utilizando as tecnologias:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- React - ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+- Markdown - ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+- JavaScript - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+- React - ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-### `npm test`
+### Back-End
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+[C#](https://docs.microsoft.com/pt-br/dotnet/csharp/)
 
-### `npm run build`
+- [.NET](https://dotnet.microsoft.com/download)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Editor
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- [Visual Studio Code](https://code.visualstudio.com/)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 📦️ Como rodar o projeto
 
-### `npm run eject`
+Clone o projeto com o comando abaixo:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+```bash
+  # Clone o repositório
+  ❯ git clone 
+[https://github.com/[usuario]/[nome-projeto].git]
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Entre no diretório
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+  ❯ cd [nome-projeto]
+# Execute o projeto
+  ❯ dotnet run
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 🔮 Funcionalidades Futuras
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- [x] A
+- [ ] B
+- [ ] C
