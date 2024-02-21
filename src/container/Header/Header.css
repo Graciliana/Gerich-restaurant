@@ -1,7 +1,5 @@
 .app__header{
   background-color: var(--color-black);
-  border-color: yellowgreen;
-  border-style: solid;
 }
 .app__header-h1{
   font-family: var(--font-base);
