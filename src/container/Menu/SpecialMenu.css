@@ -56,6 +56,11 @@
     margin: 2rem 0;
     width: 100%;
 }
+.custom__button {
+  width: 136px;
+  height: 44px;
+  background: var(--color-golden);
+  }
 
 @media screen and (min-width: 2000px) {
     .app__specialMenu-menu_img {
@@ -65,4 +70,26 @@
     .app__specialMenu-menu_img img {
         height: 920px;
     }
+}
+@media screen and (max-width: 1150px) {
+  .app__specialMenu-menu {
+      flex-direction: column;
+      align-items: center;
+      width: 100%;
+  }
+
+  .app__specialMenu-menu_img {
+      margin: 3rem 0;
+  }
+}
+
+@media screen and (max-width: 650px) {
+  .app__specialMenu-menu_img {
+      width: 100%;
+  }
+
+  .app__specialMenu-menu_heading {
+      font-size: 35px;
+      line-height: 48.5px;
+  }
 }

@@ -57,3 +57,6 @@ Clone o projeto com o comando abaixo:
 - [x] A
 - [ ] B
 - [ ] C
+
+## Dall-E
+##  
